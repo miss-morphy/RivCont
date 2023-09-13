@@ -1,0 +1,44 @@
+Primary color
+
+#7D9CC0
+Background color
+
+#FFFFFF
+Text color
+
+#31333F
+Secondary background color
+
+#F0F2F6
+
+
+
+
+
+[theme]
+base="light"
+primaryColor="#2e427b"
+
+#3A539B
+2E427B
+
+TextColor #31333F
+
+
+F3F2F2
+F5F5F5
+
+Texto: 454550
+
+Soft blacks
+#0f0e12
+#0E1111
+#181A18 ++
+
+config.toml
+[theme]
+primaryColor="#2E5EAA"
+backgroundColor="#FFFFFF"
+secondaryBackgroundColor="#FF8C42"
+textColor="#262730"
+font="Lato"
